@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur037" alt="ankur037" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ankursingh8076" target="blank"><img src="https://img.shields.io/twitter/follow/ankursingh8076?logo=twitter&style=for-the-badge" alt="ankursingh8076" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankursingh037/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankursingh037/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ankursingh933699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankursingh933699" height="30" width="40" /></a>
+<a href="https://twitter.com/ankursingh8076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankursingh8076" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankursingh037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankursingh037" height="30" width="40" /></a>
+<a href="https://kaggle.com/ankursingh933699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankursingh933699" height="30" width="40" /></a>
 <a href="https://instagram.com/ankursingh8076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankursingh8076" height="30" width="40" /></a>
 </p>
 
@@ -28,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur037&show_icons=true&locale=en&layout=compact" alt="ankur037" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur037&show_icons=true&locale=en" alt="ankur037" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur037&" alt="ankur037" /></p>
