@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Singh</h1>
-<h3 align="center">A passionate Data Science/MLE from India</h3>
+<h3 align="center">A passionate Devops/Data Science/MLE/ from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur037&label=Profile%20views&color=0e75b6&style=flat" alt="ankur037" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ankursingh8076" target="blank"><img src="https://img.shields.io/twitter/follow/ankursingh8076?logo=twitter&style=for-the-badge" alt="ankursingh8076" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankur037](https://github.com/Ankur037)
 
-- 💬 Ask me about **ML, Data science**
+- 💬 Ask me about **Linux,Devops,ML, Data science**
 
 - 📫 How to reach me **ankursingh933699@gmail.com**
 
